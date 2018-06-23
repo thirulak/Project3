@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Quiz_app1</string>
+    <!--Q1-->
+    <string name="space">Udacity Quiz App</string>
+    <string name="question1">Who is called as the black hole man of india?</string>
+    <string name="ques1opt1">C.V.Vishveshwara</string>
+    <string name="ques1opt2">Mylswamy annadurai</string>
+    <string name="ques1opt3">Jagadhish Reddy</string>
+    <!--Q2-->
+    <string name="question2">Who is the youngest person to reach space?</string>
+    <string name="ques2opt1">Gherman Titov</string>
+    <string name="ques2opt2">Rohit sharma</string>
+    <string name="ques2opt3">Yuri Gagarin</string>
+    <!--Q3-->
+    <string name="question3">Who is the oldest person to fly in space?</string>
+    <string name="ques3opt1">John Glenn</string>
+    <string name="ques3opt2">Rakesh sharma</string>
+    <string name="ques3opt3">Sally ride</string>
+    <!--Q4-->
+    <string name="question4">Who is the second man to walk in space?</string>
+    <string name="ques4opt1">Buzz aldrin</string>
+    <string name="ques4opt2">edward</string>
+    <string name="ques4opt3">scott</string>
+    <!--Q5-->
+    <string name="question5">Who are the twin astronauts in NASA?</string>
+    <string name="ques5opt1">Scott and Mark kelly</string>
+    <string name="ques5opt2">smith and edward</string>
+    <string name="ques5opt3">bunny and benny</string>
+    <!--Q6-->
+    <string name="question6">which is the brighteset star in our night sky?</string>
+    <string name="ques6opt1">sirius</string>
+    <string name="ques6opt2">nova</string>
+    <string name="ques6opt3">supreme</string>
+    <!--Q7-->
+    <string name="question7">How many female astronauts have reached space?</string>
+    <string name="ques7opt1">57</string>
+    <string name="ques7opt2">48</string>
+    <string name="ques7opt3">44</string>
+    <!--Q8-->
+    <string name="question8">Who are the crew members of Columbia?</string>
+    <string name="ques8opt1">Kalpana chawla</string>
+    <string name="ques8opt2">Laurel Clark</string>
+    <string name="ques8opt3">edwin</string>
+    <string name="ques8opt4">Tom</string>
+    <!--Q9-->
+    <string name="question9">Pick all the indian scientist?</string>
+    <string name="ques9opt1">Kalpana chawla</string>
+    <string name="ques9opt2">Sunita williams</string>
+    <string name="ques9opt3">Rakesh sharma</string>
+    <string name="ques9opt4">Yamuna rajesh</string>
+    <!--Q10-->
+    <string name="question10">Name this famous scientist</string>
+    <string name="submit">submit</string>
+    <string name="answer">C.V.Vishveshwra</string>
+</resources>
